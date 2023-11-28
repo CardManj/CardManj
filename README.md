@@ -11,9 +11,10 @@
 ## About me:  
 
 # 📊 GitHub Stats:
+<div aling="center">
 ![](https://github-readme-stats.vercel.app/api?username=CardManj&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CardManj&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
